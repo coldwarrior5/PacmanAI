@@ -1,1 +1,2 @@
-
+First unzip the Game.zip, new folder will be created named Game.
+Within that folder, Pacman.jar can be double clicked to run, it is also possible to run it using terminal java -jar "Pacman.jar" 
